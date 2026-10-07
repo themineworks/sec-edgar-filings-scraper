@@ -1,0 +1,15 @@
+{
+  "name": "sec-edgar-filings-scraper",
+  "version": "2.0.0",
+  "type": "module",
+  "description": "Structured SEC filings ready for AI and RAG pipelines. Python, Node.js and cURL clients for the SEC EDGAR Filings Scraper on Apify, pay per result.",
+  "main": "sec_edgar_filings_scraper.mjs",
+  "scripts": {
+    "start": "node sec_edgar_filings_scraper.mjs"
+  },
+  "dependencies": {
+    "apify-client": "^2.9.0"
+  },
+  "license": "MIT",
+  "homepage": "https://themineworks.com/actors/sec-edgar-filings/"
+}
